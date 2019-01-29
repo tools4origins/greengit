@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Contribution graphs are beautiful when they are green aren't they?
 
 echo "## Greengit"
