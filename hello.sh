@@ -6,7 +6,7 @@ echo "## Greengit"
 echo
 echo "#### Do you wonder why this repository is so active?"
 echo
-echo "##### After all it has $(git log --oneline | wc -l) commits!"
+echo "##### After all it has $(($(git log --oneline | wc -l) + 1)) commits!"
 echo
 echo "But is it *really* active? Well..."
 echo
